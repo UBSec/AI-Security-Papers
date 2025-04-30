@@ -1,4 +1,4 @@
-# AI Security Papers:
+# Generative AI Security Papers:
 
 ## Large Language/Reasoning Models Safety
 
