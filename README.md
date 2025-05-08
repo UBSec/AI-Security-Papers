@@ -83,6 +83,7 @@
 - Security of AI Agents https://arxiv.org/pdf/2406.08689
 - Navigating the Risks: A Survey of Security, Privacy, and Ethics Threats in LLM-Based Agents  https://arxiv.org/pdf/2411.09523
 - Model Context Protocol (MCP): Landscape, Security Threats, and Future Research Directions https://arxiv.org/pdf/2503.23278
+- AGENT-SAFETYBENCH: Evaluating the Safety of LLM Agents https://arxiv.org/pdf/2412.14470
 
 ### Attacks
 
