@@ -94,7 +94,7 @@
 
 - SHIELDAGENT: Shielding Agents via Verifiable Safety Policy Reasoning https://arxiv.org/pdf/2503.22738
 - Defining and Detecting the Defects of the Large Language Model-based Autonomous Agents https://arxiv.org/pdf/2412.18371
-- PentestAgent: Incorporating LLM Agents to Automated Penetration Testing https://arxiv.org/pdf/2411.05185
+- [AsianCCS 2025] PentestAgent: Incorporating LLM Agents to Automated Penetration Testing https://arxiv.org/pdf/2411.05185
 
 ### Media | Reports | Tools
 
